@@ -214,7 +214,7 @@ kurr.sendMessage(id, buttonMessages, MessageType.buttonsMessage, options)
    // owner
 
 
-    const htod = "6281220670449@s.whatsapp.net"
+    const htod = "62895803299969@s.whatsapp.net"
 
     			
 kurr.on("CB:Call", json => {
